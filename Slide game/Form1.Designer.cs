@@ -913,7 +913,7 @@
             this.MaximumSize = new System.Drawing.Size(616, 726);
             this.MinimumSize = new System.Drawing.Size(616, 726);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Slide Game";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             this.MainMenuPanel.ResumeLayout(false);
             this.HighScorePanel.ResumeLayout(false);
