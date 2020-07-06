@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Slide game\Slide game\bin\Debug\Slide game.exe.config
+C:\Users\User\source\repos\Slide game\Slide game\bin\Debug\Slide game.exe
+C:\Users\User\source\repos\Slide game\Slide game\bin\Debug\Slide game.pdb
+C:\Users\User\source\repos\Slide game\Slide game\obj\Debug\Slide game.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Slide game\Slide game\obj\Debug\Slide_game.Form1.resources
+C:\Users\User\source\repos\Slide game\Slide game\obj\Debug\Slide_game.Properties.Resources.resources
+C:\Users\User\source\repos\Slide game\Slide game\obj\Debug\Slide game.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Slide game\Slide game\obj\Debug\Slide game.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Slide game\Slide game\obj\Debug\Slide game.exe
+C:\Users\User\source\repos\Slide game\Slide game\obj\Debug\Slide game.pdb
